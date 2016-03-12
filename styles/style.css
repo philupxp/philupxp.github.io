@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+	border-top: 10px solid black;
+	border-bottom: 10px solid black;
+	background: rgb(198,198,198);
+}
+
+ul {
+	list-style-position: inside;
+}
+
+img {
+	border: 1px solid black;
+	height:40%;
+	float: right;
+}
+
+.uppercase-title {
+	text-transform: uppercase;
+}
+
+
+hr {
+	width: 80%;
+}
+
+#left-column {
+	width: 49% ;
+	display: inline-block;
+}
+
+
+#right-column {
+	width: 49% ;
+	display: inline-block;
+}
+
+
+
